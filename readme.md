@@ -17,7 +17,6 @@ requests compete for the same slot.
 ## Setup
 
 ```bash
-npm ci --ignore-scripts
 npm start
 ```
 

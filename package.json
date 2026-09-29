@@ -1,0 +1,21 @@
+{
+  "name": "appointment-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "chalk": "latest",
+    "lodash": "latest",
+    "nanoid": "latest",
+    "booking-eligibility": "latest",
+    "zod": "latest"
+  }
+}
